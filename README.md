@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme! 👋
 
-<!--
-**GuiBaatsch/GuiBaatsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento de sistemas**.
 
-Here are some ideas to get you started:
+🌱 Atualmente estudo **Python**, **SQL e criação de bancos de dados**, além de **Power BI e DAX**.  
+💻 Uso este perfil para compartilhar meus projetos e minha evolução na área.  
+📫 Contato: [gui39baatsch@gmail.com](mailto:gui39baatsch@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e ferramentas
+
+- Python
+- SQL
+- Power BI
+- DAX
